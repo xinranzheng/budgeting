@@ -1,1 +1,1 @@
-# budgeting
+npm install
